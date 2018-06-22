@@ -13,6 +13,5 @@ def pasword
   @pasword
 end 
 
-class amazon
-  def  (initailize)
+class c
     
