@@ -1,5 +1,5 @@
 # Code your cash register here!
-class AmazonTransaction
+class Amazon_Transaction
   def initialize(total)
     @total = "zero"                                                                                                        
   end
